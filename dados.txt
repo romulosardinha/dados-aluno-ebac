@@ -1,7 +1,7 @@
 Dados do aluno
 
--Primeiro Nome: Romulo
--Profissão: Programador
+-Primeiro Nome: Rômulo
+-Profissão: Programador / tech lead
 -Cidade: Florianópolis
 -O que faz nas horas vaga: exercícios físicos
 -Feedback sobre o curso Qualidade de Software: boas aulas e bons exercícios
